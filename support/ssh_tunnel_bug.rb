@@ -1,4 +1,4 @@
-#!/usr/bin/ruby
+#!/usr/bin/env ruby
 
 # SSH TUNNEL CONNECTION BUG
 # from: http://net-ssh.lighthouseapp.com/projects/36253/tickets/7-an-existing-connection-was-forcibly-closed-by-the-remote-host#ticket-7-3
